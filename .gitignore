@@ -1,3 +1,5 @@
 *.tar
 dataset/
-
+*.sql
+.ipynb_checkpoints/
+.DS_Store

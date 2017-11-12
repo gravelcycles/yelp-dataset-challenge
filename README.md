@@ -34,22 +34,21 @@ In order to gain a good understanding of our dataset, we are exploring simple co
         1. displayed in reviews
         2. consolidation between competing restaurants ratings
         3. geographically close or not close?
-
-        5. reviews vs avg length vs rating of that review vs user rating
-        6. Business Rating vs. Business Review Count
-        7. Business Rating vs. Total Check-ins (need to engineer this feature)
-        8. User’s number of friends vs. User review count
-        9. Business rating vs. Total review count of all users that reviewed that Business
-        10. Business rating vs. user’s average rating weighted by number of friend
+5. reviews vs avg length vs rating of that review vs user rating
+6. Business Rating vs. Business Review Count
+7. Business Rating vs. Total Check-ins (need to engineer this feature)
+8. User’s number of friends vs. User review count
+9. Business rating vs. Total review count of all users that reviewed that Business
+10. Business rating vs. user’s average rating weighted by number of friend
 ##### Nathan
-        11. Business rating vs. User’s reviewed were elite
-        12. Number of reviews that are on a business we have
-        13. Number of reviews that are on Users we have
-        14. Number of friends that we don’t have data on
-        15. user number of ratings vs. User number of friends
-        16. General patterns of users
-            1. How many users are there?
-            2.  How many review more than 5 times
+11. Business rating vs. User’s reviewed were elite
+12. Number of reviews that are on a business we have
+13. Number of reviews that are on Users we have
+14. Number of friends that we don’t have data on
+15. user number of ratings vs. User number of friends
+16. General patterns of users
+    1. How many users are there?
+    2.  How many review more than 5 times
 
 
 ## Single Variables to Explore

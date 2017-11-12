@@ -28,28 +28,28 @@ In order to gain a good understanding of our dataset, we are exploring simple co
 ##### Devin
 4. explore “business competition” (normalize by average of zip/city/state)
     1. Clustering of similarly rated businesses
-            1. By radius
-            2. By avg rating with circle vs. business merge
+        1. By radius
+        2. By avg rating with circle vs. business merge
     2. patterns of clustered businesses (good competition? bad competition?)
-            1. displayed in reviews
-            2. consolidation between competing restaurants ratings
-            3. geographically close or not close?
+        1. displayed in reviews
+        2. consolidation between competing restaurants ratings
+        3. geographically close or not close?
 
-            5. reviews vs avg length vs rating of that review vs user rating
-            6. Business Rating vs. Business Review Count
-            7. Business Rating vs. Total Check-ins (need to engineer this feature)
-            8. User’s number of friends vs. User review count
-            9. Business rating vs. Total review count of all users that reviewed that Business
-            10. Business rating vs. user’s average rating weighted by number of friend
+        5. reviews vs avg length vs rating of that review vs user rating
+        6. Business Rating vs. Business Review Count
+        7. Business Rating vs. Total Check-ins (need to engineer this feature)
+        8. User’s number of friends vs. User review count
+        9. Business rating vs. Total review count of all users that reviewed that Business
+        10. Business rating vs. user’s average rating weighted by number of friend
 ##### Nathan
-            11. Business rating vs. User’s reviewed were elite
-            12. Number of reviews that are on a business we have
-            13. Number of reviews that are on Users we have
-            14. Number of friends that we don’t have data on
-            15. user number of ratings vs. User number of friends
-            16. General patterns of users
-                1. How many users are there?
-                2.  How many review more than 5 times
+        11. Business rating vs. User’s reviewed were elite
+        12. Number of reviews that are on a business we have
+        13. Number of reviews that are on Users we have
+        14. Number of friends that we don’t have data on
+        15. user number of ratings vs. User number of friends
+        16. General patterns of users
+            1. How many users are there?
+            2.  How many review more than 5 times
 
 
 ## Single Variables to Explore
@@ -57,27 +57,27 @@ In order to gain a good understanding of our dataset, we are exploring simple co
 ##### David
 1. Geographic data: Businesses by city
     1. Number of 
-        2. Which cities
-        2. Distribution of ratings
+    2. Which cities
+    3. Distribution of ratings
 ##### Nathan
-        3. Time data of tips and reviews
-        4. Check in data
-        5. Usefulness of compliments, fans, cool, funny, etc for users
+3. Time data of tips and reviews
+4. Check in data
+5. Usefulness of compliments, fans, cool, funny, etc for users
 ##### Devin
-        6. Yelping since (for Users)
-        7. Look into some individual users
+6. Yelping since (for Users)
+7. Look into some individual users
 
 
 ## Big Questions to Explore
 1. Define a User Rating
     1. What makes a user valuable? In what context?
-        2. How do you find "valuable users"
-        2. Variance of User's Reviews
-        3. User Influentiality
-            1. Graphs/Interconnectedness
-            2. How to __ "Influential Users"
-                1. ID  
-                2. Use
+        1. How do you find "valuable users"
+    2. Variance of User's Reviews
+    3. User Influentiality
+        1. Graphs/Interconnectedness
+        2. How to __ "Influential Users"
+            1. ID  
+            2. Use
 
 
 ## How to share and store data
